@@ -35,31 +35,15 @@
 
 ---
 
-### 📌 Pinned Repositories
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/skapiljain/IncomeX_Review">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=IncomeX_Review&theme=tokyonight&hide_border=true" alt="IncomeX_Review"/>
-  </a>
-  <a href="https://github.com/skapiljain/HackSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=HackSync&theme=tokyonight&hide_border=true" alt="HackSync"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=skapiljain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=skapiljain&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/skapiljain/AI-Resume-Screening-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=AI-Resume-Screening-System&theme=tokyonight&hide_border=true" alt="AI-Resume-Screening-System"/>
-  </a>
-  <a href="https://github.com/skapiljain/GITHUB_CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=GITHUB_CLI&theme=tokyonight&hide_border=true" alt="GITHUB_CLI"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/skapiljain/TMDB_CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=TMDB_CLI&theme=tokyonight&hide_border=true" alt="TMDB_CLI"/>
-  </a>
-  <a href="https://github.com/skapiljain/js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=js&theme=tokyonight&hide_border=true" alt="js"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skapiljain&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 </p>
 
 ---
