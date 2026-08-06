@@ -35,47 +35,73 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skapiljain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=skapiljain&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <a href="https://github.com/skapiljain/IncomeX_Review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=IncomeX_Review&theme=tokyonight&hide_border=true" alt="IncomeX_Review"/>
+  </a>
+  <a href="https://github.com/skapiljain/HackSync">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=HackSync&theme=tokyonight&hide_border=true" alt="HackSync"/>
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skapiljain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/skapiljain/AI-Resume-Screening-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=AI-Resume-Screening-System&theme=tokyonight&hide_border=true" alt="AI-Resume-Screening-System"/>
+  </a>
+  <a href="https://github.com/skapiljain/GITHUB_CLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=GITHUB_CLI&theme=tokyonight&hide_border=true" alt="GITHUB_CLI"/>
+  </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skapiljain&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+  <a href="https://github.com/skapiljain/TMDB_CLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=TMDB_CLI&theme=tokyonight&hide_border=true" alt="TMDB_CLI"/>
+  </a>
+  <a href="https://github.com/skapiljain/js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=skapiljain&repo=js&theme=tokyonight&hide_border=true" alt="js"/>
+  </a>
 </p>
 
 ---
 
-### 💼 Top Projects
+### 💼 Project Spotlight
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/skapiljain/IncomeX_Review" target="_blank">⚡ IncomeX</a></h3>
-      <p align="center">AI-guided upskilling & freelance intelligence platform — turns real-time market demand data into personalized learning paths, tracked earnings, and skill ROI feedback.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,vite,nodejs,express,mongodb" alt="tech used"/>
+    <td width="100%">
+      <h3>⚡ IncomeX — AI-Guided Upskilling & Freelance Intelligence Platform</h3>
+      <p>
+        IncomeX is a full-stack platform that closes the gap between what the freelance market actually wants and what people are learning. It pulls real-time demand and payout data from marketplaces like Fiverr and Upwork, uses an AI assistant to recommend the highest-ROI skills to learn next, tracks daily learning progress and streaks, and lets users log income tagged by skill — so every skill has a measurable return before and after you learn it.
       </p>
-      <p align="center">
-        <a href="https://github.com/skapiljain/IncomeX_Review"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-        <a href="https://income-x-review.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+      <p>
+        <b>Highlights:</b> live skill demand leaderboard &nbsp;•&nbsp; side-by-side skill ROI comparison &nbsp;•&nbsp; outcome-driven learning tracks &nbsp;•&nbsp; creator dashboard with earnings analytics &nbsp;•&nbsp; Xbot AI assistant for guidance
+      </p>
+      <p>
+        <b>Tech Stack:</b> React 19, TypeScript, Vite, Tailwind CSS, Zustand, Node.js, Express, MongoDB, Socket.IO, Razorpay
+      </p>
+      <p>
+        🔗 <b>Repo:</b> <a href="https://github.com/skapiljain/IncomeX_Review">github.com/skapiljain/IncomeX_Review</a><br/>
+        🌐 <b>Live Deployment:</b> <a href="https://income-x-review.vercel.app/">income-x-review.vercel.app</a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/skapiljain/PROJECT_REPO_2" target="_blank">🚀 Project Name 2</a></h3>
-      <p align="center">One-line description of what this project does and the problem it solves.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,express,mysql" alt="tech used"/>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3>🚀 Project Name 2</h3>
+      <p>
+        Short paragraph explaining what this project does, the problem it solves, and who it's for.
       </p>
-      <p align="center">
-        <a href="https://github.com/skapiljain/PROJECT_REPO_2"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
-        <a href="https://your-deployed-link.com"><img src="https://img.shields.io/badge/Live%20Demo-2E86DE?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+      <p>
+        <b>Tech Stack:</b> add tech used here
+      </p>
+      <p>
+        🔗 <b>Repo:</b> <a href="https://github.com/skapiljain/PROJECT_REPO_2">github.com/skapiljain/PROJECT_REPO_2</a><br/>
+        🌐 <b>Live Deployment:</b> <a href="https://your-deployed-link.com">your-deployed-link.com</a>
       </p>
     </td>
   </tr>
