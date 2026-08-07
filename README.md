@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kapil Jain 👋</h1>
+<h1 align="center">Hi there, I'm Kapil Jain ^_^ </h1>
 
 <h3 align="center">Building & solving real-world problems, one line of code at a time.</h3>
 
@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skapiljain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=skapiljain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> -->
   <img src="https://streak-stats.demolab.com?user=skapiljain&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
