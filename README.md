@@ -17,17 +17,17 @@
 
 ---
 
-### 🧠 About Me
+###  About Me:
 
-- 🎓 3rd-year **Computer Science Engineering** student at **Siddaganga Institute of Technology, Tumkur**
-- 💡 I believe **problem-solving + empathy** can lead to a better life for everyone — and **technology** is how we get there
-- 🛠️ I love building practical solutions to real-world problems
-- 🌱 Currently sharpening my skills in **Full Stack Development** & **DSA**
-- ⚡ Fun fact: I turn ideas into working products — and bugs into life lessons
+- ( ˇ◡ˇ) 🎓 3rd-year **Computer Science Engineering** student at **Siddaganga Institute of Technology, Tumkur**
+- ୧(﹒_﹒)୨  🚀I believe **problem-solving + empathy** can lead to a better life for everyone — and **technology** is how we get there
+- ⌐■_■     I love building practical solutions to real-world problems
+- (⚙_⚙)  Currently sharpening my skills in **Full Stack Development** & **DSA**
+- ⊙_⊙     Fun fact: I turn ideas into working products — and bugs into life lessons
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,vite,mysql" alt="Tech Stack" />
